@@ -51,6 +51,7 @@
 		933F97B224295C4D0010FC3E /* simulatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = simulatorUITests.swift; sourceTree = "<group>"; };
 		933F97B424295C4D0010FC3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		933F97C02429609D0010FC3E /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+		933F97C22429660C0010FC3E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		933F978424295C4C0010FC3E = {
 			isa = PBXGroup;
 			children = (
+				933F97C22429660C0010FC3E /* README.md */,
 				933F978F24295C4C0010FC3E /* simulator */,
 				933F97A624295C4D0010FC3E /* simulatorTests */,
 				933F97B124295C4D0010FC3E /* simulatorUITests */,
