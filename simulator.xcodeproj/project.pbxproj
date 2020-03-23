@@ -15,6 +15,7 @@
 		933F979D24295C4D0010FC3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 933F979B24295C4D0010FC3E /* LaunchScreen.storyboard */; };
 		933F97A824295C4D0010FC3E /* simulatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933F97A724295C4D0010FC3E /* simulatorTests.swift */; };
 		933F97B324295C4D0010FC3E /* simulatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933F97B224295C4D0010FC3E /* simulatorUITests.swift */; };
+		933F97C12429609D0010FC3E /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 933F97C02429609D0010FC3E /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		933F97AE24295C4D0010FC3E /* simulatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = simulatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		933F97B224295C4D0010FC3E /* simulatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = simulatorUITests.swift; sourceTree = "<group>"; };
 		933F97B424295C4D0010FC3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		933F97C02429609D0010FC3E /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				933F979024295C4C0010FC3E /* AppDelegate.swift */,
 				933F979224295C4C0010FC3E /* SceneDelegate.swift */,
 				933F979424295C4C0010FC3E /* ContentView.swift */,
+				933F97C02429609D0010FC3E /* WebView.swift */,
 				933F979624295C4D0010FC3E /* Assets.xcassets */,
 				933F979B24295C4D0010FC3E /* LaunchScreen.storyboard */,
 				933F979E24295C4D0010FC3E /* Info.plist */,
@@ -269,6 +272,7 @@
 			files = (
 				933F979124295C4C0010FC3E /* AppDelegate.swift in Sources */,
 				933F979324295C4C0010FC3E /* SceneDelegate.swift in Sources */,
+				933F97C12429609D0010FC3E /* WebView.swift in Sources */,
 				933F979524295C4C0010FC3E /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
