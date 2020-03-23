@@ -21,7 +21,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
         // Create the SwiftUI view that provides the window contents.
         // update the url for debugging specific pages
-        let url = "https://iheart.com"
+        let url = "https://apple.com"
         let contentView = WebView(request: URLRequest(url: URL(string: url)!))
 
         // Use a UIHostingController as window root view controller.
